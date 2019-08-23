@@ -4,9 +4,9 @@ using MicroservicesUIAcceptance.BaseMethods;
 using System.Diagnostics.CodeAnalysis;
 using log4net;
 using System;
-using MicroServicesUIAcceptance.SaaSTests.DataIndex;
+using MicroServicesUIAcceptance.Tests.DataIndex;
 
-namespace MicroservicesUIAcceptance.SaaSTests.AuthenticationMethod
+namespace MicroservicesUIAcceptance.Tests.AuthenticationMethod
 {
     [ExcludeFromCodeCoverage]
     class AuthenticateUser

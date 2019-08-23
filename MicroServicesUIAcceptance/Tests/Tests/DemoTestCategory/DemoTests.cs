@@ -1,11 +1,11 @@
 ﻿using MicroservicesUIAcceptance.BaseMethods;
-using MicroservicesUIAcceptance.SaaSTests.AuthenticationMethod;
-using MicroServicesUIAcceptance.SaaSTests.DataIndex;
+using MicroservicesUIAcceptance.Tests.AuthenticationMethod;
+using MicroServicesUIAcceptance.Tests.DataIndex;
 using NUnit.Framework;
 using NUnit.Framework.Interfaces;
 using OpenQA.Selenium;
 
-namespace MicroServicesUIAcceptance.SaaSTests.Tests
+namespace MicroServicesUIAcceptance.Tests.DemoTests
 {
     class DemoTests
     {

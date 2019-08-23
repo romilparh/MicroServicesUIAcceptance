@@ -1,4 +1,4 @@
-﻿namespace MicroServicesUIAcceptance.SaaSTests.DataIndex
+﻿namespace MicroServicesUIAcceptance.Tests.DataIndex
 {
     public sealed class IdIndex
     {
